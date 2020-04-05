@@ -1,4 +1,4 @@
-This project was created for the diploma in [WSIiZ](https://wsiz.rzeszow.pl/).
+This project was created for the diploma in [WSIiZ](https://wsiz.rzeszow.pl/) by [Alimzhan Aigarayev](https://www.linkedin.com/in/alimzhan-aigarayev/).
 
 ## Available Scripts
 
