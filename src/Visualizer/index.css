@@ -1,0 +1,21 @@
+.main-container {
+    position: relative;
+    margin: auto;
+    height: 600px;
+    border: 1px solid black;
+}
+
+.array-container {
+    position: absolute;
+    left: 50%;
+    margin-left: -400px;
+}
+
+.array-bar {
+    width: 2px;
+    background-color: #000;
+    display: inline-block;
+    margin: 0 1px;
+    text-align: bottom;
+    vertical-align: bottom;
+}
